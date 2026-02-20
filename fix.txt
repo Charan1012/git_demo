@@ -4,3 +4,4 @@ third line 1st commit in feature branch
 4th line 2nd commit in feature branch
 5th line 3rd commit in feature branch
 line after stash line
+stash content
